@@ -1,0 +1,5 @@
+{
+  "name": "SmartBrains BPO 2.0 QA Dashboard",
+  "description": "A dashboard for a telemarketing QA department to track daily activities and monitor performance trends. Includes AI-powered summaries of QA data.",
+  "requestFramePermissions": []
+}
